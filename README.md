@@ -1,0 +1,2 @@
+# awesome
+Various crypto resources

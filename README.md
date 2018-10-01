@@ -12,7 +12,7 @@ Une liste des ressources remarquables au sujet des cryptomonaies
 
 ## Bitcoin
 
-- [Bitcoin.org](https://bitcoin.org) - Site web de la Bitcoin Foundation.
+- [Bitcoin.org](https://bitcoin.org) - Site créé par Satoshi Nakamoto en 2008, sur lequel est publié le livre blanc du protocole Bitcoin ainsi que quelques ressources. Désormais maintenu par @CobraBitcoin.
 
 ## News
 

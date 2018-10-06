@@ -14,6 +14,12 @@ Une liste des ressources remarquables au sujet des cryptomonaies
 
 - [Bitcoin.org](https://bitcoin.org) - Site créé par Satoshi Nakamoto en 2008, sur lequel est publié le livre blanc du protocole Bitcoin ainsi que quelques ressources. Désormais maintenu par @CobraBitcoin.
 
+### Multi-sig
+
+- https://gist.github.com/gavinandresen/3966071 - Tuto 2-of-3 multisig (anglais)
+Remarque: La clé publique (public key) est obtenue avec la commande RPC validateaddress sur l'addresse bitcoin.
+- https://en.bitcoin.it/wiki/Multisignature - Explication sur le multi-sig et comment le faire avec bitcoin-qt.
+
 ## News
 
 - [Coindesk](https://www.coindesk.com/) - Un acteur majeur de l'actualité des cryptomonnaies

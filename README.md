@@ -16,6 +16,7 @@ Une liste des ressources remarquables au sujet des cryptomonnaies
 - [Bitcoin.org](https://bitcoin.org) - Site créé par Satoshi Nakamoto en 2008, sur lequel est publié le livre blanc du protocole Bitcoin ainsi que quelques ressources. Désormais maintenu par @CobraBitcoin.
 - [bitcoindockers.com](https://www.bitcoindockers.com) - Dockerfiles utilisés en production par [Satoshi Portal](https://www.satoshiportal.com) pour les applications de Bitcoin qu'il développe et opère.
 - [github.com/guggero/bip-schnorr](https://github.com/guggero/bip-schnorr) - Implémentation en JavaScript du "BIP Schnorr signature scheme".
+- [github.com/hbakhtiyor/schnorr](https://github.com/hbakhtiyor/schnorr/) - Implémentation en Go du "BIP Schnorr signature scheme".
 
 ### Multi-sig
 

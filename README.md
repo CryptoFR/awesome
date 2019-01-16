@@ -48,3 +48,4 @@ Liste de ressources concernant la consommation énergétique de bitcoin:
 - [2nd Global Cryptoasset Benchmarking Study, Université de Cambridge](https://www.jbs.cam.ac.uk/fileadmin/user_upload/research/centres/alternative-finance/downloads/2018-ccaf-2nd-global-cryptoasset-benchmarking.pdf), "Plus de la moitié des fermes de minage identifiées, pondérées par l'énergie électrique consommée, utilisent une part d'énergie renouvellable." (p.13 et figure 48 p. 84)
 - [PoW is Efficient (article en anglais)](https://twitter.com/danheld/status/1040621230691213314)
 - [Five myths about Bitcoin’s energy use (article en anglais)](https://coincenter.org/entry/five-myths-about-bitcoin-s-energy-use)
+- [Research about Bitcoin and its energy footprint](https://medium.com/@the_unbanked_banker/bitcoin-as-an-environmental-subsidy-to-alternative-energy-1e91c427ab9e)
